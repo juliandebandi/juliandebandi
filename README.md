@@ -1,7 +1,7 @@
 # Hi there 👋
 ### I'm Julian, Full-Stack Web Developer.
 
-- 🔭 I’m currently working as a Full-Stack Web Developer (remote) for a local company, and as a Freelance Developer. 
+- 🔭 I’m currently working as a Full-Stack Web Developer (remote) for an international company, and as a Freelance Developer. 
 - 🌱 I’m currently learning and focusing to improve my skills on the back-end side, willing to turn my career into a more backend focused.
 - ⚡ My interests are:
   -  :computer: Software.
