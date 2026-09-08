@@ -1,10 +1,10 @@
 # Hi, I'm Julian 👋
 
-**Applied AI Engineer** — I design and ship production LLM agent systems: tool calling, multi-step workflows, and RAG, not prototypes.
+**Applied AI Engineer** I design and ship production LLM agent systems: tool calling, multi-step workflows, and RAG.
 
-5+ years building production backend systems (Python, Django, FastAPI). The last 2+ years focused on production LLM agents in a fintech environment — LangGraph, RAG, multi-provider LLM integration (OpenAI, Anthropic, Gemini).
+5+ years building production backend systems (Python, Django, FastAPI). The last 2+ years focused on production LLM agents in a fintech environment. LangGraph, RAG, multi-provider LLM integration (OpenAI, Anthropic, Gemini).
 
-Founder of [LLAMKANA Software](https://llamkana.com) — an AI WhatsApp agent product for small businesses.
+Founder of [LLAMKANA Software](https://llamkana.com) an AI WhatsApp agent product for small businesses.
 
 Based in Córdoba, Argentina, remote, working across US time zones. [LinkedIn](https://www.linkedin.com/in/julianjesusrodriguez/)
 
