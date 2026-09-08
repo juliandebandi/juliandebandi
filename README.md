@@ -1,41 +1,13 @@
-# Hi there 👋
-### I'm Julian, Full-Stack Web Developer.
+# Hi, I'm Julian 👋
 
-- 🔭 I’m currently working as a Full-Stack Web Developer (remote) for an international company, and as a Freelance Developer. 
-- 🌱 I’m currently learning and focusing to improve my skills on the back-end side, willing to turn my career into a more backend focused.
-- ⚡ My interests are:
-  -  :computer: Software.
-  -  :electric_plug: Machine Learning and Artificial Intelligence.
-  -  :headphones: Music and electric guitar.
-  -  :book: Reading books (especially philosophy, history and science).
+**Applied AI Engineer** — I design and ship production LLM agent systems: tool calling, multi-step workflows, and RAG, not prototypes.
 
+5+ years building production backend systems (Python, Django, FastAPI). The last 2+ years focused on production LLM agents in a fintech environment — LangGraph, RAG, multi-provider LLM integration (OpenAI, Anthropic, Gemini).
 
+Founder of [LLAMKANA Software](https://llamkana.com) — an AI WhatsApp agent product for small businesses.
 
-<!-- - 👯 I’m looking to collaborate on any kind of project -->
+Based in Córdoba, Argentina, remote, working across US time zones. [LinkedIn](https://www.linkedin.com/in/julianjesusrodriguez/)
 
+### Stack
 
-
-<!-- 
-- 🤔 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
- -->
-
-<!-- Most used languajes  -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliandebandi)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!--
-**juliandebandi/juliandebandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
