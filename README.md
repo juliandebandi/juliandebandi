@@ -2,7 +2,7 @@
 
 **Applied AI Engineer** I design and ship production LLM agent systems: tool calling, multi-step workflows, and RAG.
 
-5+ years building production backend systems (Python, Django, FastAPI). The last 2+ years focused on production LLM agents in a fintech environment. LangGraph, RAG, multi-provider LLM integration (OpenAI, Anthropic, Gemini).
+5+ years building production backend systems (Python, Django, FastAPI). 1.5+ years focused on production LLM agents in a fintech environment. LangGraph, RAG, multi-provider LLM integration (OpenAI, Anthropic, Gemini).
 
 Founder of [LLAMKANA Software](https://llamkana.com) an AI WhatsApp agent product for small businesses.
 
